@@ -7,3 +7,6 @@ The college operates three main campuses: St. James in the downtown core, Casa L
 
 Programs
 George Brown offers certificates, diplomas, advanced diplomas, degrees, and graduate certificates. The School of Computer Technology offers programs like Computer Programming and Analysis, which combines software development, databases, networking, and DevOps practices.
+
+Industry Focus
+The college is known for career-focused education with strong ties to employers. Many programs include field placements, co-op terms, or applied projects so students graduate with practical experience that matches what the job market needs.
