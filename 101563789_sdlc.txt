@@ -1,3 +1,6 @@
 Importance of DevOps in the SDLC
 
 The Software Development Life Cycle (SDLC) covers planning, design, development, testing, deployment, and maintenance. Traditionally these phases were handled by separate teams, which caused delays and miscommunication between developers and operations.
+
+Faster and Safer Delivery
+DevOps connects every phase of the SDLC through automation and collaboration. Continuous integration tests code as soon as it is written, and continuous delivery allows small, frequent releases instead of large risky ones, which shortens feedback loops.
