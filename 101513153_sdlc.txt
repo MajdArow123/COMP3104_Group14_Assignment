@@ -11,3 +11,11 @@ DevOps connects development and operations into one continuous process.
 Code is integrated, tested, and released in small frequent changes instead
 of large risky releases. Teams share responsibility for quality from the
 first commit to production.
+
+Benefits of CI/CD
+-----------------
+- Bugs are caught early through automated builds and tests
+- Faster and more predictable releases
+- Less manual work and fewer human errors
+- Quick feedback for developers on every push
+- Easier rollback when something goes wrong
