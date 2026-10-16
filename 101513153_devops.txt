@@ -12,3 +12,9 @@ Key Topics
 - GitHub Actions workflows
 - Containers with Docker
 - Infrastructure as code and automation
+
+What I Expect to Gain
+---------------------
+Hands-on experience with the same collaboration and automation tools used
+by professional software teams, which directly supports my goal of landing
+a co-op and new grad developer role.
