@@ -1,3 +1,6 @@
 COMP3104 - Developer Operations
 
 COMP3104 introduces the principles and practices of DevOps, a culture and set of practices that brings software development and IT operations together to deliver software faster and more reliably.
+
+Version Control
+The course covers Git and GitHub in depth, including branching, merging, pull requests, and resolving merge conflicts. These skills let teams work on the same codebase in parallel without overwriting each other's work.
