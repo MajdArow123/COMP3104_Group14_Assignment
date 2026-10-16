@@ -19,3 +19,8 @@ Benefits of CI/CD
 - Less manual work and fewer human errors
 - Quick feedback for developers on every push
 - Easier rollback when something goes wrong
+
+Conclusion
+----------
+DevOps turns the SDLC from a sequence of hand-offs into a continuous
+feedback loop, allowing teams to deliver reliable software faster.
