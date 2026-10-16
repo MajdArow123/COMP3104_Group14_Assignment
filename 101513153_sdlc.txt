@@ -4,3 +4,10 @@ The SDLC describes the stages software goes through: planning, analysis,
 design, development, testing, deployment, and maintenance. Traditionally,
 these stages were handled by separate teams, which slowed delivery and
 caused communication gaps.
+
+How DevOps Improves the SDLC
+----------------------------
+DevOps connects development and operations into one continuous process.
+Code is integrated, tested, and released in small frequent changes instead
+of large risky releases. Teams share responsibility for quality from the
+first commit to production.
