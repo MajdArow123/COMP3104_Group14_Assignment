@@ -3,3 +3,12 @@ COMP3104 - DevOps Course
 COMP3104 introduces the culture, practices, and tools of DevOps. The course
 focuses on how development and operations teams work together to deliver
 software faster and more reliably.
+
+Key Topics
+----------
+- Version control with Git and GitHub
+- Branching strategies and pull requests
+- Continuous Integration and Continuous Deployment (CI/CD)
+- GitHub Actions workflows
+- Containers with Docker
+- Infrastructure as code and automation
