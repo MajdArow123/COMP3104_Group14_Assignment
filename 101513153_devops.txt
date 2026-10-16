@@ -1,0 +1,5 @@
+COMP3104 - DevOps Course
+========================
+COMP3104 introduces the culture, practices, and tools of DevOps. The course
+focuses on how development and operations teams work together to deliver
+software faster and more reliably.
