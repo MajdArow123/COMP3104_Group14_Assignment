@@ -4,3 +4,6 @@ George Brown College is a public college of applied arts and technology located 
 
 Campuses
 The college operates three main campuses: St. James in the downtown core, Casa Loma in midtown, and Waterfront on Toronto's harbourfront. Each campus focuses on different program areas, such as business, technology, health sciences, and hospitality.
+
+Programs
+George Brown offers certificates, diplomas, advanced diplomas, degrees, and graduate certificates. The School of Computer Technology offers programs like Computer Programming and Analysis, which combines software development, databases, networking, and DevOps practices.
