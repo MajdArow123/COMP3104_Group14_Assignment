@@ -1,6 +1,7 @@
 # COMP3104_Group14_Assignment
 
 ## Group Members
+- **Leader:** Mjd Arow (101513153) - [GitHub](https://github.com/MajdArow123)
 - **Member:** Amran Hawaga (101563789) - [GitHub](https://github.com/Swiper-kh)
 
 ## Project Description
