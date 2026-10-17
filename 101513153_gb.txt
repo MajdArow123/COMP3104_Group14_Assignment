@@ -1,0 +1,20 @@
+George Brown College - Overview
+===============================
+George Brown College is a public college of applied arts and technology
+located in downtown Toronto, Ontario. It was founded in 1967 and is named
+after George Brown, a Father of Confederation and founder of the Toronto
+Globe newspaper.
+
+Campuses
+--------
+The college operates several campuses across downtown Toronto, including
+St. James, Casa Loma, and Waterfront. Each campus focuses on different
+areas of study, such as business, technology, health sciences, and
+hospitality.
+
+Computer Programming and Analysis (T177)
+----------------------------------------
+I am enrolled in the Computer Programming and Analysis advanced diploma.
+The program covers object-oriented programming, web and mobile development,
+databases, software testing, and DevOps practices, and prepares students
+for co-op and entry-level software development roles.

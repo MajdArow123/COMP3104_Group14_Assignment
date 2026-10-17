@@ -1,0 +1,26 @@
+DevOps in the Software Development Lifecycle (SDLC)
+===================================================
+The SDLC describes the stages software goes through: planning, analysis,
+design, development, testing, deployment, and maintenance. Traditionally,
+these stages were handled by separate teams, which slowed delivery and
+caused communication gaps.
+
+How DevOps Improves the SDLC
+----------------------------
+DevOps connects development and operations into one continuous process.
+Code is integrated, tested, and released in small frequent changes instead
+of large risky releases. Teams share responsibility for quality from the
+first commit to production.
+
+Benefits of CI/CD
+-----------------
+- Bugs are caught early through automated builds and tests
+- Faster and more predictable releases
+- Less manual work and fewer human errors
+- Quick feedback for developers on every push
+- Easier rollback when something goes wrong
+
+Conclusion
+----------
+DevOps turns the SDLC from a sequence of hand-offs into a continuous
+feedback loop, allowing teams to deliver reliable software faster.
