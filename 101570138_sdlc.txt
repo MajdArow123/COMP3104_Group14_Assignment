@@ -1,0 +1,9 @@
+DevOps in the Software Development Life Cycle
+
+The Software Development Life Cycle (SDLC) includes planning, design, development, testing, deployment, and maintenance.
+
+DevOps improves the SDLC by encouraging collaboration between development and operations teams.
+
+Continuous integration allows developers to combine and test their code regularly, helping identify problems earlier.
+
+Continuous delivery helps prepare software for reliable and frequent releases.
