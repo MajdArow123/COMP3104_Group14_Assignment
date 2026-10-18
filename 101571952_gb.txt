@@ -12,3 +12,9 @@ Where the Campuses Are
 The college has key campuses in Toronto, such as St. James, Casa Loma, and Waterfront. 
 Each campus handles specific programs like business, software technology, health, 
 and hospitality.
+
+My Program (Computer Programming and Analysis - T177)
+-----------------------------------------------------
+I am taking the Computer Programming and Analysis program. I am learning web design, 
+mobile app development, databases, coding, and DevOps tools. This program helps 
+me prepare for co-op jobs and my first career as a software developer.
