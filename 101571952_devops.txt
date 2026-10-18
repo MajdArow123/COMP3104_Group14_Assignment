@@ -1,0 +1,8 @@
+COMP3104 - DevOps Course
+========================
+
+What is this course about?
+--------------------------
+COMP3104 teaches the basics of DevOps. It focuses on how developer teams and 
+IT operation teams work together to build, test, and release software much 
+faster and with fewer errors.
