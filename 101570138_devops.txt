@@ -13,3 +13,11 @@ Git tracks changes to project files and allows developers to work on separate br
 GitHub provides a platform for hosting repositories, reviewing pull requests, and collaborating with team members.
 
 Using branches and pull requests helps developers review changes before merging them into the main project.
+
+Continuous Integration and GitHub Actions
+
+Continuous integration (CI) automatically checks code changes when developers push to a shared repository.
+
+GitHub Actions can run automated workflows to build projects, execute tests, and identify errors.
+
+CI helps development teams discover problems before merging changes into the main branch.
