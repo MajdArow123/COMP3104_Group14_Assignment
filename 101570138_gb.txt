@@ -13,3 +13,9 @@ George Brown College offers technology programs that help students develop pract
 Students learn programming, software testing, database design, system development, and teamwork.
 
 Many courses include projects and assignments that simulate real-world software development environments.
+
+Career Preparation
+
+George Brown College encourages students to apply classroom knowledge through hands-on assignments and collaborative projects.
+
+These experiences help students develop communication, problem-solving, and technical skills for careers in software development.
