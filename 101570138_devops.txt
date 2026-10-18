@@ -5,3 +5,11 @@ DevOps combines software development and IT operations to improve collaboration 
 The COMP3104 course introduces students to version control, Git, GitHub, continuous integration, and continuous delivery.
 
 DevOps practices help teams build, test, and release software more efficiently.
+
+Git and GitHub
+
+Git tracks changes to project files and allows developers to work on separate branches.
+
+GitHub provides a platform for hosting repositories, reviewing pull requests, and collaborating with team members.
+
+Using branches and pull requests helps developers review changes before merging them into the main project.
