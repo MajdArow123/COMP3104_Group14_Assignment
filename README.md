@@ -4,7 +4,6 @@
 - **Leader:** Mjd Arow (101513153) - [GitHub](https://github.com/MajdArow123)
 - **Member:** Amran Hawaga (101563789) - [GitHub](https://github.com/Swiper-kh)
 - **Member:** Sami Alsadi (101571952) - [GitHub](https://github.com/SamiS3alsadi)
-
 - **Member:** Anthony Huete-Jacobs (101570138) - [GitHub](https://github.com/ahueteja)
 
 ## Project Description
