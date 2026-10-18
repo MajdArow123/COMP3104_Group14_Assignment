@@ -1,0 +1,14 @@
+DevOps in the Software Lifecycle
+================================
+
+What is the SDLC?
+-----------------
+The SDLC is the path software takes from planning and coding to testing, 
+releasing, and updating. In the past, different teams handled each step, 
+which caused slow work and communication problems.
+
+How DevOps Helps
+----------------
+DevOps brings coding and server operations together into one team. Instead of 
+making giant updates, code is tested and released in small, frequent updates. 
+This makes updating apps much safer and faster.
