@@ -1,0 +1,22 @@
+COMP3104 - DevOps Course
+========================
+
+What is this course about?
+--------------------------
+COMP3104 teaches the basics of DevOps. It focuses on how developer teams and 
+IT operation teams work together to build, test, and release software much 
+faster and with fewer errors.
+
+Main Topics & Tools
+-------------------
+- Tracking code changes using Git and GitHub.
+- Creating code branches and opening pull requests.
+- Automating builds and tests with GitHub Actions (CI/CD).
+- Packaging apps into light containers using Docker.
+- Setting up servers and environments using code.
+
+What I Want to Learn
+--------------------
+I want to get real practice with the same tools real software companies use 
+every day. Learning how to automate code testing and deployment will help me 
+get a good co-op placement and a developer job after graduation.
