@@ -1,0 +1,7 @@
+COMP3104 - Developer Operations
+
+DevOps combines software development and IT operations to improve collaboration and software delivery.
+
+The COMP3104 course introduces students to version control, Git, GitHub, continuous integration, and continuous delivery.
+
+DevOps practices help teams build, test, and release software more efficiently.
