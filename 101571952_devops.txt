@@ -14,3 +14,9 @@ Main Topics & Tools
 - Automating builds and tests with GitHub Actions (CI/CD).
 - Packaging apps into light containers using Docker.
 - Setting up servers and environments using code.
+
+What I Want to Learn
+--------------------
+I want to get real practice with the same tools real software companies use 
+every day. Learning how to automate code testing and deployment will help me 
+get a good co-op placement and a developer job after graduation.
