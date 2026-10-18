@@ -3,6 +3,7 @@
 ## Group Members
 - **Leader:** Mjd Arow (101513153) - [GitHub](https://github.com/MajdArow123)
 - **Member:** Amran Hawaga (101563789) - [GitHub](https://github.com/Swiper-kh)
+- **Member:** Sami Alsadi (101571952) - [GitHub](https://github.com/SamiS3alsadi)
 
 ## Project Description
 This repository is the Group 14 assignment for COMP3104 (Developer Operations) at George Brown College. It demonstrates a team Git workflow, including per-developer branching, pull requests, merge conflict resolution, and continuous integration with GitHub Actions. Each member contributes three text files covering George Brown College, the DevOps course, and the importance of DevOps in the SDLC.
